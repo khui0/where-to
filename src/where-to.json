@@ -1,0 +1,160 @@
+[
+    {
+        "name": "Marinara",
+        "periods": 1,
+        "location": "Peninsula Shopping Center",
+        "address": "1308 Peninsula Blvd, Hewlett, NY 11557",
+        "travelTime": 4,
+        "food": "Pizza, Calamari",
+        "price": 1,
+        "orderingOptions": [
+            "Call"
+        ]
+    },
+    {
+        "name": "Dunkin'",
+        "periods": 1,
+        "location": "Valley Stream Shopping Center",
+        "address": "207 W Merrick Rd #233, Valley Stream, NY 11580",
+        "travelTime": 8,
+        "food": "Drinks, Donuts, Bagels",
+        "price": 1,
+        "orderingOptions": [
+            "Mobile"
+        ]
+    },
+    {
+        "name": "Chipotle",
+        "periods": 1,
+        "location": "Green Acres Mall",
+        "address": "2034 Green Acres Mall, Valley Stream, NY 11581",
+        "travelTime": 6,
+        "food": "Chipotle",
+        "price": 2,
+        "orderingOptions": [
+            "Mobile"
+        ]
+    },
+    {
+        "name": "Popeyes",
+        "periods": 1,
+        "location": "Valley Stream Shopping Center",
+        "address": "221 W Merrick Rd, Valley Stream, NY 11580",
+        "travelTime": 8,
+        "food": "Chicken, Beverage is required",
+        "price": 1,
+        "orderingOptions": [
+            "Mobile"
+        ]
+    },
+    {
+        "name": "Bagel Express",
+        "periods": 1,
+        "location": "Valley Stream Shopping Center",
+        "address": "207 W Merrick Rd, Valley Stream, NY 11580",
+        "travelTime": 8,
+        "food": "Bagels, Sandwiches",
+        "price": 1,
+        "orderingOptions": [
+            "CASH ONLY"
+        ]
+    },
+    {
+        "name": "Food Court",
+        "periods": 2,
+        "location": "Green Acres Mall",
+        "address": "2034 Green Acres Mall, Sunrise Hwy, Valley Stream, NY 11581",
+        "travelTime": 6,
+        "food": "Sarku, Shah's, Auntie Anne's",
+        "price": 2,
+        "orderingOptions": []
+    },
+    {
+        "name": "Chick-Fil-A",
+        "periods": 2,
+        "location": "Five Towns Shopping Center",
+        "address": "24923 Rockaway Blvd, Rosedale, NY 11422",
+        "travelTime": 16,
+        "food": "Chicken",
+        "price": 1,
+        "orderingOptions": [
+            "Mobile"
+        ]
+    },
+    {
+        "name": "Spartan's Grill",
+        "periods": 2,
+        "location": "Rockaway Ave",
+        "address": "123 Rockaway Ave, Valley Stream, NY 11580",
+        "travelTime": 7,
+        "food": "Greek",
+        "price": 2,
+        "orderingOptions": []
+    },
+    {
+        "name": "Wings Over",
+        "periods": 2,
+        "location": "Sunrise Hwy",
+        "address": "52 W Sunrise State Rte, Valley Stream, NY 11581",
+        "travelTime": 4,
+        "food": "Wings, Fries",
+        "price": 2,
+        "orderingOptions": [
+            "Mobile"
+        ]
+    },
+    {
+        "name": "Tobiko",
+        "periods": 2,
+        "location": "Valley Stream Shopping Center",
+        "address": "209 W Merrick Rd, Valley Stream, NY 11580",
+        "travelTime": 8,
+        "food": "Sushi, Asian",
+        "price": 3,
+        "orderingOptions": []
+    },
+    {
+        "name": "Green Deli",
+        "periods": 2,
+        "location": "Peninsula Blvd",
+        "address": "1710 Rockaway Ave, Lynbrook, NY 11563",
+        "travelTime": 6,
+        "food": "Deli",
+        "price": 1,
+        "orderingOptions": [
+            "Call"
+        ]
+    },
+    {
+        "name": "Standard Pour",
+        "periods": 2,
+        "location": "Rockaway Ave",
+        "address": "64 Rockaway Ave, Valley Stream, NY 11580",
+        "travelTime": 8,
+        "food": "IDK",
+        "price": 2,
+        "orderingOptions": []
+    },
+    {
+        "name": "Seeda Thai",
+        "periods": 2,
+        "location": "Central Territory",
+        "address": "28 N Central Ave, Valley Stream, NY 11580",
+        "travelTime": 10,
+        "food": "Thai",
+        "price": 2,
+        "orderingOptions": [
+            "Call"
+        ]
+    },
+    {
+        "name": "Diya Indian Cuisine",
+        "periods": 2,
+        "location": "Near Greis Park",
+        "address": "201 E Merrick Rd, Valley Stream, NY 11580",
+        "travelTime": 16,
+        "food": "IDK",
+        "price": 2,
+        "orderingOptions": []
+    }
+]
