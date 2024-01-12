@@ -1,16 +1,13 @@
 import "./reset.css";
 import "./layout.css";
 import "./style.css";
-import "bootstrap-icons/font/bootstrap-icons.css";
+// import "bootstrap-icons/font/bootstrap-icons.css";
 
 import whereTo from "./where-to.json";
 
-const single = whereTo.filter(place => place.periods == 1);
-const double = whereTo.filter(place => place.periods == 2);
-
 document.getElementById("generate").addEventListener("click", () => {
-    const period = document.getElementById("periods").value;
-    const choices = period == 1 ? single : double;
+    const period = parseInt(document.getElementById("periods").value);
+    const choices = whereTo.filter(place => place.periods <= period);
     const random = Math.floor(Math.random() * choices.length);
     const result = choices[random];
     // Show result

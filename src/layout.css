@@ -4,8 +4,10 @@ body {
     align-items: center;
     gap: 0.5rem;
     padding: 0.5rem;
+    text-align: center;
 }
 
 #result {
     width: min(100%, 400px);
+    text-align: initial;
 }
