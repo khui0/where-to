@@ -1,5 +1,5 @@
 {
-  "name": "vite-project",
+  "name": "where-to",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,10 +9,13 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "sharp": "^0.33.1",
-    "svgo": "^3.2.0",
+    "@sveltejs/vite-plugin-svelte": "^2.4.2",
+    "autoprefixer": "^10.4.18",
+    "daisyui": "^4.7.3",
+    "postcss": "^8.4.35",
+    "svelte": "^4.0.5",
+    "tailwindcss": "^3.4.1",
     "vite": "^4.4.5",
-    "vite-plugin-image-optimizer": "^1.1.7",
     "vite-plugin-webfont-dl": "^3.9.1"
   },
   "dependencies": {
