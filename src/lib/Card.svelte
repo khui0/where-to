@@ -1,12 +1,13 @@
 <script>
-    import { fade } from "svelte/transition";
+    import { cubicOut } from "svelte/easing";
+    import { scale } from "svelte/transition";
 
     export let location;
 </script>
 
 <div
-    in:fade
-    out:fade
+    in:scale={{ duration: 500, easing: cubicOut }}
+    out:scale={{ duration: 500, easing: cubicOut }}
     class="card bg-base-200 shadow-xl col-start-1 row-start-1"
 >
     <div class="card-body">
