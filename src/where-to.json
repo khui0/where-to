@@ -1,160 +1,186 @@
 [
     {
-        "name": "Marinara",
         "periods": 1,
+        "name": "Marinara",
+        "price": 1,
+        "description": "Pizza, Calamari",
         "location": "Peninsula Shopping Center",
         "address": "1308 Peninsula Blvd, Hewlett, NY 11557",
         "travelTime": 4,
-        "description": "Pizza, Calamari",
-        "price": 1,
         "orderingOptions": [
-            "Call"
+            "Call",
+            "Apple Pay"
         ]
     },
     {
-        "name": "Dunkin'",
         "periods": 1,
+        "name": "Dunkin'",
+        "price": 1,
+        "description": "Drinks, Donuts, Bagels",
         "location": "Valley Stream Shopping Center",
         "address": "207 W Merrick Rd #233, Valley Stream, NY 11580",
         "travelTime": 8,
-        "description": "Drinks, Donuts, Bagels",
-        "price": 1,
         "orderingOptions": [
-            "Mobile"
+            "Mobile",
+            "Apple Pay"
         ]
     },
     {
-        "name": "Chipotle",
         "periods": 1,
+        "name": "Chipotle",
+        "price": 2,
+        "description": "Chipotle",
         "location": "Green Acres Mall",
         "address": "2034 Green Acres Mall, Valley Stream, NY 11581",
         "travelTime": 6,
-        "description": "Chipotle",
-        "price": 2,
         "orderingOptions": [
-            "Mobile"
+            "Mobile",
+            "Apple Pay"
         ]
     },
     {
-        "name": "Popeyes",
         "periods": 1,
+        "name": "Popeyes",
+        "price": 1,
+        "description": "Chicken sandwich",
         "location": "Valley Stream Shopping Center",
         "address": "221 W Merrick Rd, Valley Stream, NY 11580",
         "travelTime": 8,
-        "description": "Chicken, Beverage is required",
-        "price": 1,
         "orderingOptions": [
-            "Mobile"
+            "Mobile",
+            "Apple Pay"
         ]
     },
     {
-        "name": "Bagel Express",
         "periods": 1,
+        "name": "Bagel Express",
+        "price": 1,
+        "description": "Bagels, Sandwiches",
         "location": "Valley Stream Shopping Center",
         "address": "207 W Merrick Rd, Valley Stream, NY 11580",
         "travelTime": 8,
-        "description": "Bagels, Sandwiches",
-        "price": 1,
         "orderingOptions": [
             "CASH ONLY"
         ]
     },
     {
-        "name": "Food Court",
         "periods": 2,
+        "name": "Food Court",
+        "price": 2,
+        "description": "Sarku, Shah's, Auntie Anne's, Charleys, Wendy's*, etc.",
         "location": "Green Acres Mall",
         "address": "2034 Green Acres Mall, Sunrise Hwy, Valley Stream, NY 11581",
         "travelTime": 6,
-        "description": "Sarku, Shah's, Auntie Anne's",
-        "price": 2,
-        "orderingOptions": []
+        "orderingOptions": [
+            "Apple Pay*"
+        ]
     },
     {
-        "name": "Chick-Fil-A",
         "periods": 2,
+        "name": "Chick-Fil-A",
+        "price": 1,
+        "description": "Chicken",
         "location": "Five Towns Shopping Center",
         "address": "24923 Rockaway Blvd, Rosedale, NY 11422",
         "travelTime": 16,
-        "description": "Chicken",
-        "price": 1,
         "orderingOptions": [
-            "Mobile"
+            "Mobile",
+            "Apple Pay"
         ]
     },
     {
-        "name": "Spartan's Grill",
         "periods": 2,
+        "name": "Spartan's Grill",
+        "price": 2,
+        "description": "Greek",
         "location": "Rockaway Ave",
         "address": "123 Rockaway Ave, Valley Stream, NY 11580",
         "travelTime": 7,
-        "description": "Greek",
-        "price": 2,
-        "orderingOptions": []
+        "orderingOptions": [
+            "Apple Pay"
+        ]
     },
     {
-        "name": "Wings Over",
         "periods": 2,
+        "name": "Wings Over",
+        "price": 2,
+        "description": "Wings, Fries",
         "location": "Sunrise Hwy",
         "address": "52 W Sunrise State Rte, Valley Stream, NY 11581",
         "travelTime": 4,
-        "description": "Wings, Fries",
-        "price": 2,
         "orderingOptions": [
             "Mobile"
         ]
     },
     {
-        "name": "Tobiko",
         "periods": 2,
+        "name": "Tobiko",
+        "price": 3,
+        "description": "Sushi, Asian",
         "location": "Valley Stream Shopping Center",
         "address": "209 W Merrick Rd, Valley Stream, NY 11580",
         "travelTime": 8,
-        "description": "Sushi, Asian",
-        "price": 3,
-        "orderingOptions": []
+        "orderingOptions": [
+            "Apple Pay"
+        ]
     },
     {
-        "name": "Green Deli",
         "periods": 2,
+        "name": "Green Deli",
+        "price": 1,
+        "description": "Deli",
         "location": "Peninsula Blvd",
         "address": "1710 Rockaway Ave, Lynbrook, NY 11563",
         "travelTime": 6,
-        "description": "Deli",
-        "price": 1,
         "orderingOptions": [
-            "Call"
+            "Call",
+            "Apple Pay"
         ]
     },
     {
-        "name": "Standard Pour",
         "periods": 2,
+        "name": "Standard Pour",
+        "price": 2,
+        "description": "*Never been",
         "location": "Rockaway Ave",
         "address": "64 Rockaway Ave, Valley Stream, NY 11580",
         "travelTime": 8,
-        "description": "IDK",
-        "price": 2,
         "orderingOptions": []
     },
     {
-        "name": "Seeda Thai",
         "periods": 2,
+        "name": "Seeda Thai",
+        "price": 2,
+        "description": "Thai",
         "location": "Central Territory",
         "address": "28 N Central Ave, Valley Stream, NY 11580",
         "travelTime": 10,
-        "description": "Thai",
-        "price": 2,
         "orderingOptions": [
-            "Call"
+            "Call",
+            "Apple Pay"
         ]
     },
     {
-        "name": "Diya Indian Cuisine",
         "periods": 2,
+        "name": "Diya Indian Cuisine",
+        "price": 2,
+        "description": "*Never been",
         "location": "Near Greis Park",
         "address": "201 E Merrick Rd, Valley Stream, NY 11580",
         "travelTime": 16,
-        "description": "IDK",
-        "price": 2,
         "orderingOptions": []
+    },
+    {
+        "periods": 2,
+        "name": "Wendy's",
+        "price": 1,
+        "description": "Free frosty :P",
+        "location": "Lynbrook",
+        "address": "580 Merrick Rd, Lynbrook, NY 11563",
+        "travelTime": 18,
+        "orderingOptions": [
+            "Mobile",
+            "Apple Pay"
+        ]
     }
 ]
