@@ -6,7 +6,7 @@
         "description": "Pizza, Calamari",
         "location": "Peninsula Shopping Center",
         "address": "1308 Peninsula Blvd, Hewlett, NY 11557",
-        "travelTime": 4,
+        "travelTime": 5,
         "orderingOptions": [
             "Call",
             "Apple Pay"
@@ -14,9 +14,35 @@
     },
     {
         "periods": 1,
+        "name": "Starbucks",
+        "price": 1,
+        "description": "Drinks, Croissants, Bagels, etc.",
+        "location": "Peninsula Shopping Center",
+        "address": "1336 Peninsula Blvd, Hewlett, NY 11557",
+        "travelTime": 5,
+        "orderingOptions": [
+            "Mobile",
+            "Apple Pay"
+        ]
+    },
+    {
+        "periods": 1,
+        "name": "Burger King",
+        "price": 1,
+        "description": "Drinks, Croissants, Bagels, etc.",
+        "location": "Near Peninsula Shopping Center",
+        "address": "440 Mill Rd, Hewlett, NY 11557",
+        "travelTime": 5,
+        "orderingOptions": [
+            "Mobile",
+            "Apple Pay"
+        ]
+    },
+    {
+        "periods": 1,
         "name": "Dunkin'",
         "price": 1,
-        "description": "Drinks, Donuts, Bagels",
+        "description": "Drinks, Donuts, Bagels, etc.",
         "location": "Valley Stream Shopping Center",
         "address": "207 W Merrick Rd #233, Valley Stream, NY 11580",
         "travelTime": 8,
@@ -64,6 +90,32 @@
         ]
     },
     {
+        "periods": 1,
+        "name": "Wings Over",
+        "price": 2,
+        "description": "Wings, Fries",
+        "location": "Sunrise Hwy",
+        "address": "52 W Sunrise State Rte, Valley Stream, NY 11581",
+        "travelTime": 4,
+        "orderingOptions": [
+            "Mobile",
+            "Apple Pay"
+        ]
+    },
+    {
+        "periods": 1,
+        "name": "McDonald's",
+        "price": 1,
+        "description": "McDonald's",
+        "location": "Sunrise Hwy",
+        "address": "10 Sunrise Hwy, Valley Stream, NY 11581",
+        "travelTime": 4,
+        "orderingOptions": [
+            "Mobile",
+            "Apple Pay"
+        ]
+    },
+    {
         "periods": 2,
         "name": "Food Court",
         "price": 2,
@@ -98,18 +150,6 @@
         "travelTime": 7,
         "orderingOptions": [
             "Apple Pay"
-        ]
-    },
-    {
-        "periods": 2,
-        "name": "Wings Over",
-        "price": 2,
-        "description": "Wings, Fries",
-        "location": "Sunrise Hwy",
-        "address": "52 W Sunrise State Rte, Valley Stream, NY 11581",
-        "travelTime": 4,
-        "orderingOptions": [
-            "Mobile"
         ]
     },
     {
