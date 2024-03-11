@@ -12,8 +12,7 @@
 >
     <div class="card-body">
         <h2 class="card-title">{location.name}</h2>
-        <p>{"$".repeat(location.price)}</p>
-        <p>{location.description}</p>
+        <p>{"$".repeat(location.price)} &bullet; {location.description}</p>
         <p><i class="bi bi-map"></i> {location.location}</p>
         <p>
             <i class="bi bi-geo-alt"></i>
