@@ -124,7 +124,8 @@
         "address": "2034 Green Acres Mall, Sunrise Hwy, Valley Stream, NY 11581",
         "travelTime": 6,
         "orderingOptions": [
-            "Apple Pay*"
+            "Apple Pay",
+            "*No Apple Pay"
         ]
     },
     {
@@ -181,7 +182,7 @@
         "periods": 2,
         "name": "Standard Pour",
         "price": 2,
-        "description": "*Never been",
+        "description": "Cafe, Breakfast, Brunch",
         "location": "Rockaway Ave",
         "address": "64 Rockaway Ave, Valley Stream, NY 11580",
         "travelTime": 8,
@@ -204,7 +205,7 @@
         "periods": 2,
         "name": "Diya Indian Cuisine",
         "price": 2,
-        "description": "*Never been",
+        "description": "Indian",
         "location": "Near Greis Park",
         "address": "201 E Merrick Rd, Valley Stream, NY 11580",
         "travelTime": 16,
