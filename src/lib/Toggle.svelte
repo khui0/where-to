@@ -4,7 +4,7 @@
 
 <div class="form-control">
   <label class="label cursor-pointer gap-2">
-    <span class="label-text">Double period</span>
+    <span class="label-text text-neutral-content">Double period</span>
     <input type="checkbox" class="toggle" bind:checked />
   </label>
 </div>
