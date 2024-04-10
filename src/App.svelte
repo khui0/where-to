@@ -33,8 +33,7 @@
         '71-111 Saddle Rock Rd, Valley Stream, NY 11581',
       )}"
       target="_blank"
-      rel="noopener noreferrer"
-      >71-111 Saddle Rock Rd, Valley Stream, NY 11581</a
+      rel="noopener noreferrer">71-111 Saddle Rock Rd, Valley Stream, NY 11581</a
     >
   </p>
 </main>
