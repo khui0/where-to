@@ -18,8 +18,19 @@
   })();
 
   function randomize() {
-    index = Math.floor(Math.random() * locations.length);
+    let result;
+    do {
+      result = Math.floor(Math.random() * locations.length);
+    } while (index === result);
+    index = result;
   }
+
+  document.addEventListener("keyup", (e) => {
+    if (e.key == " ") {
+      e.preventDefault();
+      randomize();
+    }
+  });
 </script>
 
 <main class="p-4 flex flex-col items-center justify-center gap-4">
